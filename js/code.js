@@ -26,7 +26,7 @@ function onYes() {
   );
   
   image.innerHTML = "<img src=" + happyGif + " alt=\"Happy gif :)\">"
-  document.getElementById("message").innerHTML = "Widzimy się o 16:45 obok Madonny 🥹"
+  document.getElementById("message").innerHTML = "Widzimy się o 16:45 obok Madonny 🥹🥰❤️"
 }
 
 function onNo() {
